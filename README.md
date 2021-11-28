@@ -1,3 +1,3 @@
 # siplilearn-repo
 This is a sample repository.
-We have edited READNE file.
+We have edited README file.
